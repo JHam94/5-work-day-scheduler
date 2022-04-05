@@ -10,3 +10,5 @@ HTML, CSS, JavaScript
 
 Link to deployed application: https://jham94.github.io/5-work-day-scheduler/ 
 
+![Screen Shot 2022-04-05 at 12 51 09 PM](https://user-images.githubusercontent.com/98374207/161813011-f5d64e2a-fd98-4080-aa74-fb837bee44ef.png)
+
